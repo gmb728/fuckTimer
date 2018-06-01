@@ -12,6 +12,7 @@
 		DD58FC3D20BFDA6900ABA38B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD58FC3B20BFDA6900ABA38B /* Main.storyboard */; };
 		DD58FC3F20BFDA6B00ABA38B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD58FC3E20BFDA6B00ABA38B /* Assets.xcassets */; };
 		DD58FC4220BFDA6B00ABA38B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD58FC4020BFDA6B00ABA38B /* LaunchScreen.storyboard */; };
+		DD58FC8E20C1304300ABA38B /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DD58FC8D20C1304200ABA38B /* crayon_1-1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DD58FC3E20BFDA6B00ABA38B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD58FC4120BFDA6B00ABA38B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD58FC4320BFDA6B00ABA38B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD58FC8D20C1304200ABA38B /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		DD58FC3620BFDA6900ABA38B /* fuckTimer */ = {
 			isa = PBXGroup;
 			children = (
+				DD58FC8D20C1304200ABA38B /* crayon_1-1.ttf */,
 				DD58FC3720BFDA6900ABA38B /* AppDelegate.swift */,
 				DD58FC3920BFDA6900ABA38B /* ViewController.swift */,
 				DD58FC3B20BFDA6900ABA38B /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD58FC8E20C1304300ABA38B /* crayon_1-1.ttf in Resources */,
 				DD58FC4220BFDA6B00ABA38B /* LaunchScreen.storyboard in Resources */,
 				DD58FC3F20BFDA6B00ABA38B /* Assets.xcassets in Resources */,
 				DD58FC3D20BFDA6900ABA38B /* Main.storyboard in Resources */,
